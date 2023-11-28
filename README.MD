@@ -13,5 +13,5 @@
    Ссылка ``` https://drive.google.com/file/d/1gwegAZPe_ZzPMepirUt5l6AOGpwVLCD0/view?usp=sharing ```
 
 2. SQL-запросы
-   Файл, содержащий SQL-запросы ``` Script-2.sql ``` в коренном котологе.
+   Файл, содержащий SQL-запросы ``` Script-2.sql ``` в коренном каталоге.
 
